@@ -10,4 +10,12 @@
   - 2x Intel Xeon X5670
   - 64GB of DDR3 ECC RAM
   - Software RAID ( ZFS pool using two disks, 600GB )
-  - Mellanox ConnectX2 SFP+ Network Interface Card
+  - Mellanox ConnectX2 SFP+ Network Interface Card  
+
+Network devices are the same as in my homelab. Check the [networking-lab](https://github.com/andreansx/networking-lab) repo for configurations.
+
+
+## Future expansions
+
+- Accomodate to VLANs
+
